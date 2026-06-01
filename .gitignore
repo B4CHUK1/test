@@ -1,0 +1,14 @@
+# build output
+/dist
+/out
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+*.tsbuildinfo
+
+# env
+.env*
+!.env.example
